@@ -6,7 +6,7 @@ Please note that the default branch should be set otherwise its master.
 
 ## install
 ```
-go get github.com/syzer/repo
+go get github.com/syzer/pr
 ```
 
 ## run

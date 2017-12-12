@@ -1,11 +1,12 @@
 # Pull Request
 
 Cli tool that opens a new pull request with `github/gitlab`.
+Please note that the default branch should be set otherwise its master.
 
 
 ## install
 ```
-go get github.com/syzer/repo
+go get github.com/syzer/pr
 ```
 
 ## run
@@ -13,8 +14,9 @@ go get github.com/syzer/repo
 inside git repository run
 
 ```
-repo
+pr
 ```
+It will open new Pull request from that branch
 
 ## test
 

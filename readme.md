@@ -13,8 +13,9 @@ go get github.com/syzer/repo
 inside git repository run
 
 ```
-repo
+pr
 ```
+It will open new Pull request from that branch
 
 ## test
 

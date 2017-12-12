@@ -1,6 +1,7 @@
 # Pull Request
 
 Cli tool that opens a new pull request with `github/gitlab`.
+Please note that the default branch should be set otherwise its master.
 
 
 ## install
